@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hotelreservationpredict"
+version = "0.1.0"
+description = ""
+authors = ["AliAkkoyun <aliakkoyun2001@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.2.6"
+pandas = "^2.2.3"
+google-cloud-storage = "^3.1.0"
+scikit-learn = "^1.6.1"
+pyyaml = "^6.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,32 @@
+2025-05-18 21:39:08,746 - INFO - Division successful: 10.0
+2025-05-18 21:39:16,330 - INFO - Division successful: 10.0
+2025-05-18 21:39:18,064 - INFO - Division successful: 10.0
+2025-05-18 21:40:00,955 - INFO - Division successful: 10.0
+2025-05-18 22:05:13,933 - INFO - Division successful: 10.0
+2025-05-18 22:06:09,236 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:06:09,236 - ERROR - Error in main: string indices must be integers, not 'str'
+2025-05-18 22:10:34,177 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:10:34,177 - ERROR - Error in main: string indices must be integers, not 'str'
+2025-05-18 22:16:08,871 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:16:08,871 - ERROR - Error in main: string indices must be integers, not 'str'
+2025-05-18 22:19:00,114 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:19:00,114 - INFO - Data ingestion started with my_bucket_31 and file is Hotel_Reservation.csv
+2025-05-18 22:19:00,114 - INFO - Starting data ingestion process
+2025-05-18 22:19:12,265 - ERROR - Error downloading file from GCP: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-05-18 22:19:12,265 - ERROR - Error in data ingestion: 'DefaultCredentialsError' object has no attribute 'exc_info'
+2025-05-18 22:19:12,265 - INFO - Data ingestion process finished
+2025-05-18 22:19:12,265 - ERROR - Error in main: 'AttributeError' object has no attribute 'exc_info'
+2025-05-18 22:27:19,916 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:27:19,916 - INFO - Data ingestion started with my_bucket_31 and file is Hotel_Reservation.csv
+2025-05-18 22:27:19,916 - INFO - Starting data ingestion process
+2025-05-18 22:27:32,001 - ERROR - Error downloading file from GCP: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-05-18 22:27:32,001 - ERROR - Error in data ingestion: 'DefaultCredentialsError' object has no attribute 'exc_info'
+2025-05-18 22:27:32,001 - INFO - Data ingestion process finished
+2025-05-18 22:27:32,001 - ERROR - Error in main: 'AttributeError' object has no attribute 'exc_info'
+2025-05-18 22:29:28,197 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-18 22:29:28,197 - INFO - Data ingestion started with my_bucket_31 and file is Hotel_Reservation.csv
+2025-05-18 22:29:28,197 - INFO - Starting data ingestion process
+2025-05-18 22:29:40,452 - ERROR - Error downloading file from GCP: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-05-18 22:29:40,452 - ERROR - Error in data ingestion: Error occurred in script: [/home/ali-akkoyun/Desktop/MLOps/HotelReservationPredict/data_ingestion.py] at line number: [25] with error message: [Failed to download file from GCP]
+2025-05-18 22:29:40,452 - INFO - Data ingestion process finished
+2025-05-18 22:29:40,452 - ERROR - Error in main: Error occurred in script: [/home/ali-akkoyun/Desktop/MLOps/HotelReservationPredict/data_ingestion.py] at line number: [50] with error message: [Data ingestion failed]
