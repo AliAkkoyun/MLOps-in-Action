@@ -1,0 +1,17 @@
+2025-05-19 22:49:04,724 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-19 22:49:04,724 - INFO - Data Ingestion started with my_bucket_31 and file is  Hotel_Reservations.csv
+2025-05-19 22:49:04,725 - INFO - Starting data ingestion process
+2025-05-19 22:49:04,725 - INFO - GCP client created
+2025-05-19 22:49:06,334 - ERROR - Error while downloading the csv file
+2025-05-19 22:49:06,336 - ERROR - CustomException : Error in /home/ali-akkoyun/Desktop/MLOps/HotelReservationPredict/src/data_ingestion.py , line 32 : Failed to downlaod csv file 
+2025-05-19 22:49:06,336 - INFO - Data ingestion completed
+2025-05-19 22:50:19,799 - INFO - YAML file config/config.yaml loaded successfully.
+2025-05-19 22:50:19,799 - INFO - Data Ingestion started with my_bucket31 and file is  Hotel_Reservations.csv
+2025-05-19 22:50:19,799 - INFO - Starting data ingestion process
+2025-05-19 22:50:19,799 - INFO - GCP client created
+2025-05-19 22:50:26,249 - INFO - CSV file is sucesfully downloaded to artifacts/raw/data.csv
+2025-05-19 22:50:26,249 - INFO - Starting the splitting process
+2025-05-19 22:50:26,387 - INFO - Train data saved to artifacts/raw/train.csv
+2025-05-19 22:50:26,387 - INFO - Test data saved to artifacts/raw/test.csv
+2025-05-19 22:50:26,388 - INFO - Data ingestion completed sucesfully
+2025-05-19 22:50:26,388 - INFO - Data ingestion completed
